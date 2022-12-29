@@ -24,7 +24,7 @@
     "zeppelin-solidity": "^1.7.0"
   },
   "devDependencies": {
-    "ganache-cli": "^6.1.0",
+    "ganache-cli": "^6.12.2",
     "solium": "^1.1.5"
   }
 }
